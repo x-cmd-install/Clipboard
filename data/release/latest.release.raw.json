@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 851890,
       "digest": null,
-      "download_count": 197,
+      "download_count": 199,
       "created_at": "2024-11-16T20:43:48Z",
       "updated_at": "2024-11-17T19:29:32Z",
       "browser_download_url": "https://github.com/Slackadays/Clipboard/releases/download/0.10.0/clipboard-flatpak-amd64.zip"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 1008440,
       "digest": null,
-      "download_count": 173,
+      "download_count": 174,
       "created_at": "2024-11-16T20:43:49Z",
       "updated_at": "2024-11-17T19:29:32Z",
       "browser_download_url": "https://github.com/Slackadays/Clipboard/releases/download/0.10.0/clipboard-freebsd-amd64.zip"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 1134582,
       "digest": null,
-      "download_count": 2891,
+      "download_count": 2904,
       "created_at": "2024-11-16T20:44:02Z",
       "updated_at": "2024-11-17T19:29:32Z",
       "browser_download_url": "https://github.com/Slackadays/Clipboard/releases/download/0.10.0/clipboard-linux-amd64.zip"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 1023384,
       "digest": null,
-      "download_count": 431,
+      "download_count": 442,
       "created_at": "2024-11-16T20:44:00Z",
       "updated_at": "2024-11-17T19:29:32Z",
       "browser_download_url": "https://github.com/Slackadays/Clipboard/releases/download/0.10.0/clipboard-linux-arm64.zip"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 429125,
       "digest": null,
-      "download_count": 424,
+      "download_count": 429,
       "created_at": "2024-11-16T20:43:54Z",
       "updated_at": "2024-11-17T19:29:32Z",
       "browser_download_url": "https://github.com/Slackadays/Clipboard/releases/download/0.10.0/clipboard-macos-arm64.zip"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 1012918,
       "digest": null,
-      "download_count": 145,
+      "download_count": 146,
       "created_at": "2024-11-16T20:43:53Z",
       "updated_at": "2024-11-17T19:29:32Z",
       "browser_download_url": "https://github.com/Slackadays/Clipboard/releases/download/0.10.0/clipboard-netbsd-amd64.zip"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 1044153,
       "digest": null,
-      "download_count": 133,
+      "download_count": 134,
       "created_at": "2024-11-16T20:43:52Z",
       "updated_at": "2024-11-17T19:29:32Z",
       "browser_download_url": "https://github.com/Slackadays/Clipboard/releases/download/0.10.0/clipboard-openbsd-amd64.zip"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 21289821,
       "digest": null,
-      "download_count": 164,
+      "download_count": 165,
       "created_at": "2024-11-16T20:42:05Z",
       "updated_at": "2024-11-17T19:29:32Z",
       "browser_download_url": "https://github.com/Slackadays/Clipboard/releases/download/0.10.0/clipboard-snap-amd64.zip"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 1152686,
       "digest": "sha256:ec40414e692b4ee69a98f7ee89d5ce5ca4bbbf44211823726531da82815fa2ab",
-      "download_count": 26653,
+      "download_count": 26707,
       "created_at": "2025-06-10T18:25:17Z",
       "updated_at": "2025-06-10T19:23:52Z",
       "browser_download_url": "https://github.com/Slackadays/Clipboard/releases/download/0.10.0/clipboard-windows-amd64.zip"
