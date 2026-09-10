@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 1134582,
       "digest": null,
-      "download_count": 2923,
+      "download_count": 2936,
       "created_at": "2024-11-16T20:44:02Z",
       "updated_at": "2024-11-17T19:29:32Z",
       "browser_download_url": "https://github.com/Slackadays/Clipboard/releases/download/0.10.0/clipboard-linux-amd64.zip"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 1152686,
       "digest": "sha256:ec40414e692b4ee69a98f7ee89d5ce5ca4bbbf44211823726531da82815fa2ab",
-      "download_count": 26769,
+      "download_count": 26790,
       "created_at": "2025-06-10T18:25:17Z",
       "updated_at": "2025-06-10T19:23:52Z",
       "browser_download_url": "https://github.com/Slackadays/Clipboard/releases/download/0.10.0/clipboard-windows-amd64.zip"
