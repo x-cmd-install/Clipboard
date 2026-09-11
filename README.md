@@ -38,11 +38,11 @@ Total: **163,142** lines of code across **175** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 5,895 · **Forks**: 175 · **Open issues**: 141 · **Contributors**: 26
+- **Stars**: 5,898 · **Forks**: 176 · **Open issues**: 141 · **Contributors**: 27
 
 ## Totals (cumulative)
 
-- **Releases**: 24 · **Merged PRs**: 62 · **Open PRs**: 5 · **Closed issues**: 120 · **Open issues**: 21 · **Commits**: 1890
+- **Releases**: 24 · **Merged PRs**: 63 · **Open PRs**: 5 · **Closed issues**: 120 · **Open issues**: 21 · **Commits**: 1890
 
 ## Recent activity
 
@@ -83,4 +83,4 @@ Install metadata for Clipboard lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T05:38:16Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T19:36:56Z._
